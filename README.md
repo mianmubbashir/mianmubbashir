@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 # 💫 About Me:
 ⚪ I am Mian Mubbashir Elahi, a Computer Science Student.<br>👨‍💻 All of my projects are available at https://github.com/mianmubbashir<br>🌱 I’m currently learning Next.js/tailwind and design system 🚀
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mian-mubbashir-elahi-a5b777254/) 
