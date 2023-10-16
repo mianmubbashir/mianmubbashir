@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚪ I am Mian Mubbashir Elahi, a Computer Science Student.<br>👨‍💻 All of my projects are available at https://github.com/mianmubbashir<br>🌱 I’m currently learning Next.js/tailwind and design system 🚀
+⚪ I am Mian Mubbashir Elahi, a Computer Science Student.<br>👨‍💻 All of my projects are available at https://github.com/mianmubbashir<br>🌱 I have also experience in Next.js/tailwind and design system 🚀
 
 
 ## 🌐 Socials:
